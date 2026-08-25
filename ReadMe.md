@@ -1,0 +1,1 @@
+DealFlow - a natural-language sourcing request into an autonomous agent that searches, compares, verifies, and negotiates with suppliers — replacing hours of manual cross-referencing with one explainable, transparent recommendation.
