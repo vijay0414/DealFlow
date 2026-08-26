@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+google-genai
+pydantic-settings
+python-dotenv
